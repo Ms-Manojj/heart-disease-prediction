@@ -4,3 +4,7 @@ I have developed a model for predicting Heart Disease, which involves a classifi
 <!-- Bases GUI Looks like this -->
 
 
+
+
+![Capture](https://github.com/Ms-Manojj/heart-disease-prediction/assets/121573735/0c938762-63da-4b92-935d-a3bb5b8ffac5)
+
